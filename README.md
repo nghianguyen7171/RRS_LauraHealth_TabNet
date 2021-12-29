@@ -11,7 +11,7 @@ Full Text, BibText (soon)
 
 ### Online Experiments
 ##### Run our experiments online with Binder
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/laura-health/cbms2020/master)
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laura-health/cbms2020/blob/master/colab_experiments.ipynb)
 
 ### Data Share
